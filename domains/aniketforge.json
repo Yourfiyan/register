@@ -1,9 +1,9 @@
 {
-    "owner": {
-        "username": "aniketforge",
-        "email": "gmailaniketsingh@gmail.com"
-    },
-    "records": {
-        "CNAME": "aniketforge.github.io"
-    }
+  "owner": {
+    "username": "aniketforge",
+    "email": "gmailaniketsingh@gmail.com"
+  },
+  "records": {
+    "CNAME": "aniketforge.github.io"
+  }
 }
